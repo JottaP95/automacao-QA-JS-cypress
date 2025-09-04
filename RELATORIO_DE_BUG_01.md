@@ -50,7 +50,7 @@ A página de produtos é exibida, porém todos os itens da galeria mostram a **m
 
 *A imagem abaixo demonstra o erro, destacando que múltiplos produtos com nomes diferentes exibem a mesma imagem de um cachorro.*
 
-![Evidência do bug visual no Sauce Demo](https://imgur.com/a/MmrhzOb)
+![Evidência do bug visual no Sauce Demo] (https://imgur.com/a/MmrhzOb)
 
 ---
 
