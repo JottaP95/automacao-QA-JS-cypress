@@ -45,12 +45,12 @@ Para executar os testes em sua máquina local, siga os passos abaixo.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio-cypress.git](https://github.com/seu-usuario/seu-repositorio-cypress.git)
+    git clone https://github.com/JottaP95/automacao-QA-JS-cypress
     ```
 
 2.  **Acesse a pasta do projeto:**
     ```bash
-    cd seu-repositorio-cypress
+    cd automacao-QA-JS-cypress
     ```
 
 3.  **Instale as dependências do projeto:**
@@ -65,13 +65,11 @@ Para executar os testes em sua máquina local, siga os passos abaixo.
         ```bash
         npx cypress open
         ```
-        (Este comando abrirá o Cypress Test Runner, onde você pode clicar no arquivo de teste para executá-lo e ver a "mágica" acontecer em tempo real).
-
+        
     * **Modo Headless (via terminal, sem interface):**
         ```bash
         npx cypress run
         ```
-        (Este comando executará todos os testes diretamente no terminal, ideal para integração contínua e verificações rápidas).
 
 ---
 
@@ -79,5 +77,5 @@ Para executar os testes em sua máquina local, siga os passos abaixo.
 
 * **[João Paulo Souza Vieira]**
 * **LinkedIn:** [João Paulo Souza Vieira](https://www.linkedin.com/in/jo%C3%A3o-paulo-souza-vieira-988029369/?trk=opento_sprofile_topcard)
-
 * **GitHub:** [https://github.com/JottaP95](https://github.com/JottaP95)
+
