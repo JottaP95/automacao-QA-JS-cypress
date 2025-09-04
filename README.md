@@ -21,7 +21,7 @@ Além da automação, o projeto também inclui um exemplo de **relatório de bug
 
 ## 🧪 Cenários de Teste Automatizados
 
-Os seguintes cenários de usuário foram automatizados e estão contidos no arquivo `cypress/e2e/saucedemo_tests.cy.js`:
+Os seguintes cenários de usuário foram automatizados e estão contidos no arquivo `saucedemo_tests.cy.js`:
 
 1.  **Login com Sucesso:** Valida o fluxo de login com credenciais válidas e verifica se o usuário é redirecionado para a página de produtos.
 2.  **Login com Senha Inválida:** Valida o comportamento do sistema ao tentar logar com uma senha incorreta e verifica se a mensagem de erro apropriada é exibida.
@@ -79,4 +79,5 @@ Para executar os testes em sua máquina local, siga os passos abaixo.
 
 * **[João Paulo Souza Vieira]**
 * **LinkedIn:** [João Paulo Souza Vieira](https://www.linkedin.com/in/jo%C3%A3o-paulo-souza-vieira-988029369/?trk=opento_sprofile_topcard)
+
 * **GitHub:** [https://github.com/JottaP95](https://github.com/JottaP95)
